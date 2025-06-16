@@ -175,3 +175,11 @@ img {
         padding: 30px;
     }
 }
+
+/* bonus*/
+
+@media screen and (min-width: 768px) and (max-width: 1160px) {
+    .container {
+        width: 100%;
+    }
+}
